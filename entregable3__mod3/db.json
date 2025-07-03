@@ -1,0 +1,21 @@
+{
+  "libros": [
+    {
+      "title": "Cien años de soledad",
+      "author": "Karina Henao",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "yearPublication": 1605
+    },
+    {
+      "id": 4,
+      "title": "Juan Salvador Gaviota",
+      "author": "Richard Bach",
+      "yearPublication": 1970
+    }
+  ]
+}
