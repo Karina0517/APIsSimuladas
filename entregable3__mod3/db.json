@@ -2,20 +2,57 @@
   "libros": [
     {
       "title": "Cien años de soledad",
-      "author": "Karina Henao",
+      "author": "Gabriel García Márquez",
+      "yearPublication": 1967,
       "id": 1
     },
     {
-      "id": 2,
       "title": "Don Quijote de la Mancha",
       "author": "Miguel de Cervantes",
-      "yearPublication": 1605
+      "yearPublication": 1605,
+      "id": 2
+    },
+    {
+      "title": "La casa de los espíritus",
+      "author": "Isabel Allende",
+      "yearPublication": 1982,
+      "id": 3
     },
     {
       "id": 4,
       "title": "Juan Salvador Gaviota",
       "author": "Richard Bach",
       "yearPublication": 1970
+    },
+    {
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "yearPublication": 1943,
+      "id": 5
+    },
+    {
+      "title": "El túnel",
+      "author": "Ernesto Sabato",
+      "yearPublication": 1948,
+      "id": 6
+    },
+    {
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "yearPublication": 1963,
+      "id": 7
+    },
+    {
+      "title": "El Aleph",
+      "author": "Jorge Luis Borges",
+      "yearPublication": 1949,
+      "id": 8
+    },
+    {
+      "title": "El amor en los tiempos del cólera",
+      "author": "Gabriel García Márquez",
+      "yearPublication": 1985,
+      "id": 9
     }
   ]
 }
